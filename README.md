@@ -27,3 +27,7 @@ All notes, and some tutorial and past-year papers for Singapore Polytechnic's Di
 
 ### Semester 2 Modules
 N/A (Internship)
+
+## Electives
+
+## Bonus
