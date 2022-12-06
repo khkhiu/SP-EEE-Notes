@@ -1,5 +1,5 @@
 # SP-EEE-Notes
-All notes, and some tutorial and past-year papers for Singapore Polytechnic's Diploma in Electrical Electronic Engineering (DEEE) for Academic Years 2020 to 2023.
+Most notes, tutorials and past-year papers for Singapore Polytechnic's Diploma in Electrical Electronic Engineering (DEEE) for Academic Years 2020 to 2023.
 
 ## Year 1
 ### Semester 1 Modules
@@ -19,7 +19,7 @@ All notes, and some tutorial and past-year papers for Singapore Polytechnic's Di
 
 ## Year 2
 ### Semester 1 Modules
-
+- [ET0050 - Electrical Installation Design](EID)
 ### Semester 2 Modules
 
 ## Year 3
@@ -29,5 +29,6 @@ All notes, and some tutorial and past-year papers for Singapore Polytechnic's Di
 N/A (Internship)
 
 ## Electives
+- [EM0524 - Engineering Exploration and Design](EED)
 
 ## Bonus
