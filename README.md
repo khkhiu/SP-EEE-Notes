@@ -20,6 +20,8 @@ Most notes, tutorials and past-year papers for Singapore Polytechnic's Diploma i
 ## Year 2
 ### Semester 1 Modules
 - [ET0050 - Electrical Installation Design](EID)
+- [ET0901 - Digital System Design](DSD)
+
 ### Semester 2 Modules
 
 ## Year 3
