@@ -23,6 +23,7 @@ Most notes, tutorials and past-year papers for Singapore Polytechnic's Diploma i
 - [ET0901 - Digital System Design](DSD)
 - [ET0902 - Wafer Fabrication Fundamentals](WFF)
 - [ET1010 - Micro-controller Applications](MAPP)
+- [MS4125 - Statistics and Analytics for Engineers](SAE)
 
 ### Semester 2 Modules
 
