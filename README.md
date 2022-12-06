@@ -3,7 +3,7 @@ All notes, and some tutorial and past-year papers for Singapore Polytechnic's Di
 
 ## Year 1
 ### Semester 1 Modules
-- [MS4121 - Engineering Mathematics](ACG)
+- [MS4121 - Engineering Mathematics](EM1)
 ### Semester 2 Modules
 
 ## Year 2
