@@ -34,6 +34,7 @@ Most notes, tutorials and past-year papers for Singapore Polytechnic's Diploma i
 ## Year 3
 ### Semester 1 Modules (Signals and communications specialization)
 - [ET0096 - Digital Signal Processing](DSP)
+- [ET0153 - Satellite and Optical Communications](SOCOM)
 
 ### Semester 2 Modules
 N/A (Internship)
