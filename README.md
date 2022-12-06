@@ -28,6 +28,8 @@ Most notes, tutorials and past-year papers for Singapore Polytechnic's Diploma i
 ### Semester 2 Modules
 - [ET0053 - Circuit Theory and Analysis](CTA)
 - [ET0904 - Physics for Engineers](PHY)
+- [ET0917 - PLC Applications](PLC)
+- [LC0356 - Communications for Project Effectiveness(Report)](CPR)
 
 ## Year 3
 ### Semester 1 Modules (Signals and communications specialization)
