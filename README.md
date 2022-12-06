@@ -22,6 +22,7 @@ Most notes, tutorials and past-year papers for Singapore Polytechnic's Diploma i
 - [ET0050 - Electrical Installation Design](EID)
 - [ET0901 - Digital System Design](DSD)
 - [ET0902 - Wafer Fabrication Fundamentals](WFF)
+- [ET1010 - Micro-controller Applications](MAPP)
 
 ### Semester 2 Modules
 
