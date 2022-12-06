@@ -16,8 +16,11 @@ All notes, and some tutorial and past-year papers for Singapore Polytechnic's Di
 
 ## Year 2
 ### Semester 1 Modules
+
 ### Semester 2 Modules
 
 ## Year 3
-### Semester 1 Modules
+### Semester 1 Modules (Signals and communications specialization)
+
 ### Semester 2 Modules
+N/A (Internship)
