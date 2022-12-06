@@ -48,6 +48,7 @@ N/A (Internship)
 
 ## Bonus
 - [ST2111 - Mobile Application Development 1](MAD1)
+- [ST2219 - Business Analytics](BA)
 - [ST2220 - Web Application Development](WAD)
 - [ST2224 - Social Media Analytics](SMA)
 - [ST2228 - Web and Mobile Analytics](WMA)
