@@ -11,6 +11,7 @@ All notes, and some tutorial and past-year papers for Singapore Polytechnic's Di
 - [MS4121 - Engineering Mathematics](EM1)
 
 ### Semester 2 Modules
+- [ET0730 - Networking Fundamentals](NWF)
 
 ## Year 2
 ### Semester 1 Modules
