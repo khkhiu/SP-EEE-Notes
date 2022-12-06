@@ -35,5 +35,6 @@ N/A (Internship)
 
 ## Electives
 - [EM0524 - Engineering Exploration and Design](EED)
+- [EP0604 - Further Mathematics](FM)
 
 ## Bonus
