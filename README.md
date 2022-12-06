@@ -26,6 +26,7 @@ Most notes, tutorials and past-year papers for Singapore Polytechnic's Diploma i
 - [MS4125 - Statistics and Analytics for Engineers](SAE)
 
 ### Semester 2 Modules
+- [ET0053 - Circuit Theory and Analysis](CTA)
 
 ## Year 3
 ### Semester 1 Modules (Signals and communications specialization)
