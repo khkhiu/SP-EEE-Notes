@@ -47,3 +47,8 @@ N/A (Internship)
 - [EP0605 - Advanced Physics](A-PHY)
 
 ## Bonus
+- [ST2111 - Mobile Application Development 1](MAD1)
+- [ST2220 - Web Application Development](WAD)
+- [ST2224 - Social Media Analytics](SMA)
+- [ST2228 - Web and Mobile Analytics](WMA)
+- [ST2312 - Business Intelligence](BI)
